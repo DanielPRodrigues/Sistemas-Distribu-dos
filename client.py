@@ -1,4 +1,6 @@
-import socket
+#lado ativo
+
+import socket 
 
 HOST = 'localhost'
 PORT = 5000
