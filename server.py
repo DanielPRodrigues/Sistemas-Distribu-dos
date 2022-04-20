@@ -1,3 +1,5 @@
+#lado passivo 
+
 import socket
 
 HOST = '10.11.0.10'
